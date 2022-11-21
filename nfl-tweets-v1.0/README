@@ -1,0 +1,32 @@
+NFL Tweet Dataset
+Version 1.0
+August, 2013
+
+This dataset includes .csv files containing tweets from the 2010-2012 NFL seasons annotated with relevant game information, partitioned into 1) weekly tweets and 2) postgame tweets.
+Weekly tweets are those that occurred at least 12 hours after the start of the previous game and 1 hour before the start of the upcoming game for their assigned team.
+Postgame tweets are those that occurred between 4 and 28 hours after the start of the previous game for their assigned team. 
+A tweet was assigned to a team if the tweet contained hashtags corresponding to exactly one team. The file teams.nfl.hashtags contains a list of hashtags and corresponding teams.
+The game data was obtained from NFLdata.com and includes the home and away teams, their points scored in the game, the point spread line, and the total points line. 
+The list of fields included in the *postgame.csv and *.weekly.csv files are contained in the tweets.key.csv file.
+See Sinha et al. (2013) for more information on how the dataset was collected and constructured.
+
+For more information regarding the tweets used to prepare this dataset, please contact one of Shil Sinha (shil.sinha@gmail.com), Chris Dyer (cdyer@cs.cmu.edu) or Kevin Gimpel (kgimpel@ttic.edu). 
+
+The data is released under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) license.  
+The license is detailed here: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Please cite the publication below if you write any papers using this dataset.
+
+Shiladitya Sinha, Chris Dyer, Kevin Gimpel, and Noah A. Smith. "Predicting the NFL using Twitter," ECML/PKDD 2013 Workshop on Machine Learning and Data Mining for Sports Analytics, 2013.
+
+bibtex:
+
+@inproceedings{sinha-13,
+  author    = {S. Sinha and C. Dyer and K. Gimpel and Smith, N. A.},
+  title     = {Predicting the {NFL} Using {Twitter}},
+  booktitle = {Proc. of ECML/PKDD Workshop on Machine Learning and Data Mining for Sports Analytics},
+  year      = {2013}
+}
+
+The paper is also included with this download (sinha+dyer+gimpel+smith.mlsa13.pdf).
+
