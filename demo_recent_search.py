@@ -1,11 +1,10 @@
 import requests
-import os
 import json
 import constants
 
 # To set your environment variables in your terminal run the following line:
 # export 'BEARER_TOKEN'='<your_bearer_token>'
-bearer_token = os.environ.get("BEARER_TOKEN")
+bearer_token = constants.TWITTER_BEARER_TOKEN
 
 search_url = "https://api.twitter.com/2/tweets/search/recent"
 
