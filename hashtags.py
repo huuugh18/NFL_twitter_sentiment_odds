@@ -1,11 +1,12 @@
 {
-"Atlanta":
-["#DirtyBirds",
-"#Falcons"]
-Arizona Cardinals
+falcons:
+    ["#DirtyBirds",
+    "#Falcons"]
+"cardinals":
+[
 "#BirdCityFootball",
-"#Cardinals",
-Baltimore Ravens
+"#Cardinals"]
+"ravens":
 "#RavensFlock",
 "#Ravens",
 Buffalo Bills
@@ -53,7 +54,8 @@ Some tweets for French soccer
 "#Packers",
 Houston Texans
 
-"#WeAreTexans#Texans",
+"#WeAreTexans",
+"#Texans",
 **Indianapolis Colts**
 
 "#ForTheShoe",
