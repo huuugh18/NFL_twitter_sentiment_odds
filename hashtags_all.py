@@ -13,7 +13,7 @@ hashtags = {
     ],
     "bills": [
         "#billsmafia",
-        "#goBills",
+        "#gobills",
         "#bills"
     ],
     "panthers": [

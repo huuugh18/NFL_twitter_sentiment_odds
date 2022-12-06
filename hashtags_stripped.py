@@ -140,3 +140,7 @@ ht_half_2 = [
     "#Titans",
     "#HTTC",
     "#Commanders"]
+
+ht_extra = [
+    "#nhl"
+]
