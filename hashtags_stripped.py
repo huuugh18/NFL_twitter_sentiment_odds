@@ -50,7 +50,6 @@ ht_flat = [
     "#Saints",
     "#TogetherBlue",
     "#giants",
-    "New York Jets"
     "#TakeFlight",
     "#Jets",
     "#RaiderNation",
@@ -123,7 +122,6 @@ ht_half_2 = [
     "#Saints",
     "#TogetherBlue",
     "#giants",
-    "New York Jets"
     "#TakeFlight",
     "#Jets",
     "#RaiderNation",
