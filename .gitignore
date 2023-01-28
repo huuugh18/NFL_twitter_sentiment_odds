@@ -5,3 +5,4 @@ constants.py
 ./schedules
 ./team_tweets
 ./team_stats_comb
+./team_data_wk
