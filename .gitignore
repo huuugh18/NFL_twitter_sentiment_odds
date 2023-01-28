@@ -6,3 +6,4 @@ constants.py
 ./team_tweets
 ./team_stats_comb
 ./team_data_wk
+team_data/all_tweets.csv
