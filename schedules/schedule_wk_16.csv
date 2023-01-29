@@ -1,17 +1,3 @@
-Week,Day,Date,Time,Winner/tie,,Loser/tie,,PtsW,PtsL,YdsW,TOW,YdsL,TOL
-16,Thu,2022-12-22,8:15 PM,Jacksonville Jaguars,@,New York Jets,boxscore,19,3,365,1,227,2
-16,Sat,2022-12-24,1:00 PM,Buffalo Bills,@,Chicago Bears,preview,,,,,,
-16,Sat,2022-12-24,1:00 PM,Atlanta Falcons,@,Baltimore Ravens,preview,,,,,,
-16,Sat,2022-12-24,1:00 PM,Seattle Seahawks,@,Kansas City Chiefs,preview,,,,,,
-16,Sat,2022-12-24,1:00 PM,New York Giants,@,Minnesota Vikings,preview,,,,,,
-16,Sat,2022-12-24,1:00 PM,New Orleans Saints,@,Cleveland Browns,preview,,,,,,
-16,Sat,2022-12-24,1:00 PM,Cincinnati Bengals,@,New England Patriots,preview,,,,,,
-16,Sat,2022-12-24,1:00 PM,Houston Texans,@,Tennessee Titans,preview,,,,,,
-16,Sat,2022-12-24,1:00 PM,Detroit Lions,@,Carolina Panthers,preview,,,,,,
-16,Sat,2022-12-24,4:05 PM,Washington Commanders,@,San Francisco 49ers,preview,,,,,,
-16,Sat,2022-12-24,4:25 PM,Philadelphia Eagles,@,Dallas Cowboys,preview,,,,,,
-16,Sat,2022-12-24,8:15 PM,Las Vegas Raiders,@,Pittsburgh Steelers,preview,,,,,,
-16,Sun,2022-12-25,1:00 PM,Green Bay Packers,@,Miami Dolphins,preview,,,,,,
-16,Sun,2022-12-25,4:30 PM,Denver Broncos,@,Los Angeles Rams,preview,,,,,,
-16,Sun,2022-12-25,8:20 PM,Tampa Bay Buccaneers,@,Arizona Cardinals,preview,,,,,,
-16,Mon,2022-12-26,8:15 PM,Los Angeles Chargers,@,Indianapolis Colts,preview,,,,,,
+version https://git-lfs.github.com/spec/v1
+oid sha256:59525baaf347540c5506fc10e1752d86762668468568d7422d59069ac168676a
+size 1334

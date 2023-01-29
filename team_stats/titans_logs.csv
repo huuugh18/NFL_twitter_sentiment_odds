@@ -1,18 +1,3 @@
-Week,Day,Date,,,OT,,Opp,Tm,Opp,Cmp,Att,Yds,TD,Int,Sk,Yds,Y/A,NY/A,Cmp%,Rate,Att,Yds,Y/A,TD,FGM,FGA,XPM,XPA,Pnt,Yds,3DConv,3DAtt,4DConv,4DAtt,ToP
-1,Sun,September 11,boxscore,L,,,New York Giants,20,21,20,33,266,2,0,1,0,8.1,7.8,60.6,106.4,26,93,3.6,0,2,3,2,2,6,342,3,11,0,0,31:06
-2,Mon,September 19,boxscore,L,,@,Buffalo Bills,7,41,12,24,107,0,2,2,16,5.1,4.1,50.0,27.6,27,80,3.0,1,0,0,1,1,6,333,4,12,1,1,28:26
-3,Sun,September 25,boxscore,W,,,Las Vegas Raiders,24,22,19,27,252,1,1,1,12,9.8,9.0,70.4,96.5,27,109,4.0,2,1,1,3,3,3,181,5,10,0,1,29:15
-4,Sun,October 2,boxscore,W,,@,Indianapolis Colts,24,17,17,21,116,2,0,3,21,6.5,4.8,81.0,121.4,28,127,4.5,1,1,1,3,3,4,211,5,12,0,0,26:03
-5,Sun,October 9,boxscore,W,,@,Washington Commanders,21,17,15,25,136,1,0,5,45,7.2,4.5,60.0,88.1,32,105,3.3,2,0,0,3,3,8,416,4,14,1,1,32:40
-7,Sun,October 23,boxscore,W,,,Indianapolis Colts,19,10,13,20,116,0,0,2,16,6.6,5.3,65.0,80.4,35,138,3.9,0,4,4,1,1,3,164,5,12,0,0,31:33
-8,Sun,October 30,boxscore,W,,@,Houston Texans,17,10,6,10,40,0,1,3,15,5.5,3.1,60.0,29.2,45,314,7.0,2,1,2,2,2,5,242,4,12,1,1,34:48
-9,Sun,November 6,boxscore,L,OT,@,Kansas City Chiefs,17,20,5,16,57,0,0,3,23,5.0,3.0,31.3,43.0,29,172,5.9,2,1,1,2,2,8,390,1,11,0,1,26:23
-10,Sun,November 13,boxscore,W,,,Denver Broncos,17,10,19,36,244,2,0,1,11,7.1,6.6,52.8,92.8,23,63,2.7,0,1,1,2,2,8,432,6,16,0,0,26:03
-11,Thu,November 17,boxscore,W,,@,Green Bay Packers,27,17,24,29,320,3,1,3,17,11.6,10.0,82.8,132.8,32,88,2.8,1,0,0,3,4,3,152,7,13,1,2,32:28
-12,Sun,November 27,boxscore,L,,,Cincinnati Bengals,16,20,22,34,281,0,0,1,10,8.6,8.0,64.7,90.4,21,63,3.0,0,3,4,1,1,5,269,7,16,0,0,28:14
-13,Sun,December 4,boxscore,L,,@,Philadelphia Eagles,10,35,16,26,122,1,0,6,35,6.0,3.8,61.5,85.7,21,87,4.1,0,1,1,1,1,7,401,4,14,1,2,27:27
-14,Sun,December 11,boxscore,L,,,Jacksonville Jaguars,22,36,25,38,227,2,1,4,27,6.7,5.4,65.8,88.4,20,137,6.9,1,0,0,2,2,3,150,5,10,0,1,27:08
-15,Sun,December 18,boxscore,L,,@,Los Angeles Chargers,14,17,18,26,157,0,1,4,28,7.1,5.2,69.2,68.9,27,127,4.7,2,0,1,2,2,7,392,3,11,0,0,30:12
-16,Sat,December 24,boxscore,L,,,Houston Texans,14,19,14,23,88,0,2,4,11,4.3,3.3,60.9,32.5,31,184,5.9,2,0,0,2,2,6,301,4,12,1,2,26:57
-17,Thu,December 29,boxscore,L,,,Dallas Cowboys,13,27,20,39,220,1,1,2,12,5.9,5.4,51.3,66.2,24,97,4.0,0,2,2,1,1,5,237,7,16,1,2,26:34
-18,Sat,January 7,boxscore,L,,@,Jacksonville Jaguars,16,20,20,29,165,1,1,4,14,6.2,5.0,69.0,80.4,39,147,3.8,0,3,3,1,1,3,166,6,17,2,3,36:12
+version https://git-lfs.github.com/spec/v1
+oid sha256:de42df0413f3b210c5abb8460fdcc5783cdbd090ee258d251f7caa655bba256b
+size 2444

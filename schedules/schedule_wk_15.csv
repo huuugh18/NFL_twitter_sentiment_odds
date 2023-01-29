@@ -1,17 +1,3 @@
-Week,Day,Date,Time,Winner/tie,,Loser/tie,,PtsW,PtsL,YdsW,TOW,YdsL,TOL
-15,Thu,2022-12-15,8:15 PM,San Francisco 49ers,@,Seattle Seahawks,boxscore,21,13,381,0,277,1
-15,Sat,2022-12-17,1:00 PM,Minnesota Vikings,,Indianapolis Colts,boxscore,39,36,518,3,341,1
-15,Sat,2022-12-17,4:30 PM,Cleveland Browns,,Baltimore Ravens,boxscore,13,3,283,0,324,2
-15,Sat,2022-12-17,8:15 PM,Buffalo Bills,,Miami Dolphins,boxscore,32,29,446,1,405,0
-15,Sun,2022-12-18,1:00 PM,New Orleans Saints,,Atlanta Falcons,boxscore,21,18,348,1,320,1
-15,Sun,2022-12-18,1:00 PM,Pittsburgh Steelers,@,Carolina Panthers,boxscore,24,16,325,0,209,0
-15,Sun,2022-12-18,1:00 PM,Philadelphia Eagles,@,Chicago Bears,boxscore,25,20,421,3,248,1
-15,Sun,2022-12-18,1:00 PM,Jacksonville Jaguars,,Dallas Cowboys,boxscore,40,34,503,3,397,2
-15,Sun,2022-12-18,1:00 PM,Detroit Lions,@,New York Jets,boxscore,20,17,359,0,337,1
-15,Sun,2022-12-18,1:00 PM,Kansas City Chiefs,@,Houston Texans,boxscore,30,24,502,2,219,1
-15,Sun,2022-12-18,1:00 PM,New York Giants,@,Washington Commanders,boxscore,20,12,288,0,387,2
-15,Sun,2022-12-18,4:05 PM,Denver Broncos,,Arizona Cardinals,boxscore,24,15,324,2,240,3
-15,Sun,2022-12-18,4:25 PM,Cincinnati Bengals,@,Tampa Bay Buccaneers,boxscore,34,23,237,1,396,4
-15,Sun,2022-12-18,4:25 PM,Los Angeles Chargers,,Tennessee Titans,boxscore,17,14,365,2,284,1
-15,Sun,2022-12-18,8:20 PM,Las Vegas Raiders,,New England Patriots,boxscore,30,24,308,1,318,1
-15,Mon,2022-12-19,8:15 PM,Green Bay Packers,,Los Angeles Rams,boxscore,24,12,345,2,156,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bce80551c7f31436f2e30280add7df6a7a6f1ce9dcf16dc6bab7b5fde12d75a
+size 1520

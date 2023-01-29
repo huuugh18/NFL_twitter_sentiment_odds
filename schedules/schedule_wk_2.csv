@@ -1,17 +1,3 @@
-Week,Day,Date,Time,Winner/tie,,Loser/tie,,PtsW,PtsL,YdsW,TOW,YdsL,TOL
-2,Thu,2022-09-15,8:15PM,Kansas City Chiefs,,Los Angeles Chargers,boxscore,27,24,319,0,401,1
-2,Sun,2022-09-18,1:00PM,New York Giants,,Carolina Panthers,boxscore,19,16,265,0,275,2
-2,Sun,2022-09-18,1:00PM,New York Jets,@,Cleveland Browns,boxscore,31,30,402,1,405,1
-2,Sun,2022-09-18,1:00PM,Jacksonville Jaguars,,Indianapolis Colts,boxscore,24,0,331,0,218,3
-2,Sun,2022-09-18,1:00PM,Detroit Lions,,Washington Commanders,boxscore,36,27,425,0,396,1
-2,Sun,2022-09-18,1:00PM,Miami Dolphins,@,Baltimore Ravens,boxscore,42,38,547,2,473,0
-2,Sun,2022-09-18,1:00PM,Tampa Bay Buccaneers,@,New Orleans Saints,boxscore,20,10,260,1,308,5
-2,Sun,2022-09-18,1:00PM,New England Patriots,@,Pittsburgh Steelers,boxscore,17,14,376,1,243,2
-2,Sun,2022-09-18,4:05PM,Los Angeles Rams,,Atlanta Falcons,boxscore,31,27,337,3,261,3
-2,Sun,2022-09-18,4:05PM,San Francisco 49ers,,Seattle Seahawks,boxscore,27,7,373,0,216,3
-2,Sun,2022-09-18,4:25PM,Dallas Cowboys,,Cincinnati Bengals,boxscore,20,17,337,1,254,0
-2,Sun,2022-09-18,4:25PM,Arizona Cardinals,@,Las Vegas Raiders,boxscore,29,23,413,1,324,1
-2,Sun,2022-09-18,4:25PM,Denver Broncos,,Houston Texans,boxscore,16,9,350,1,234,0
-2,Sun,2022-09-18,8:20PM,Green Bay Packers,,Chicago Bears,boxscore,27,10,414,1,228,1
-2,Mon,2022-09-19,7:15PM,Buffalo Bills,,Tennessee Titans,boxscore,41,7,414,0,187,4
-2,Mon,2022-09-19,8:30PM,Philadelphia Eagles,,Minnesota Vikings,boxscore,24,7,486,1,264,3
+version https://git-lfs.github.com/spec/v1
+oid sha256:f519895f90fc53fabf688691fb82bd27f2c57b1568db1394edad3863d3a71bda
+size 1482

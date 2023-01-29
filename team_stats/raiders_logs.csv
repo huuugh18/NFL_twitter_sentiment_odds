@@ -1,18 +1,3 @@
-Week,Day,Date,,,OT,,Opp,Tm,Opp,Cmp,Att,Yds,TD,Int,Sk,Yds,Y/A,NY/A,Cmp%,Rate,Att,Yds,Y/A,TD,FGM,FGA,XPM,XPA,Pnt,Yds,3DConv,3DAtt,4DConv,4DAtt,ToP
-1,Sun,September 11,boxscore,L,,@,Los Angeles Chargers,19,24,22,37,256,2,3,6,39,8.0,6.0,59.5,64.7,13,64,4.9,0,2,2,1,1,2,106,5,11,1,2,27:28
-2,Sun,September 18,boxscore,L,OT,,Arizona Cardinals,23,29,25,39,244,2,0,1,8,6.5,6.1,64.1,98.7,21,80,3.8,0,3,3,2,2,3,161,6,11,0,0,29:47
-3,Sun,September 25,boxscore,L,,@,Tennessee Titans,22,24,27,45,300,2,1,1,7,6.8,6.5,60.0,85.4,19,96,5.1,0,3,3,1,1,3,144,1,12,3,3,30:45
-4,Sun,October 2,boxscore,W,,,Denver Broncos,32,23,21,34,173,0,0,2,15,5.5,4.8,61.8,74.8,38,212,5.6,2,4,4,2,3,4,215,7,14,0,0,34:52
-5,Mon,October 10,boxscore,L,,@,Kansas City Chiefs,29,30,19,30,223,2,0,2,18,8.0,7.0,63.3,108.1,24,155,6.5,1,3,3,2,2,2,104,5,12,1,2,28:53
-7,Sun,October 23,boxscore,W,,,Houston Texans,38,20,21,27,236,1,0,1,5,8.9,8.4,77.8,115.4,27,164,6.1,3,1,1,5,5,2,93,4,9,1,1,30:43
-8,Sun,October 30,boxscore,L,,@,New Orleans Saints,0,24,23,39,145,0,1,4,28,4.4,3.4,59.0,56.0,13,38,2.9,0,0,0,0,0,5,229,5,14,2,3,25:09
-9,Sun,November 6,boxscore,L,,@,Jacksonville Jaguars,20,27,21,36,248,2,0,2,11,7.2,6.5,58.3,97.9,19,73,3.8,0,2,2,2,2,4,196,3,12,1,3,27:35
-10,Sun,November 13,boxscore,L,,,Indianapolis Colts,20,25,24,38,232,2,0,2,16,6.5,5.8,63.2,97.7,24,77,3.2,1,0,0,2,2,5,294,5,13,1,3,30:59
-11,Sun,November 20,boxscore,W,OT,@,Denver Broncos,22,16,23,37,298,2,0,1,9,8.3,7.8,62.2,105.5,24,109,4.5,0,3,4,1,1,4,187,3,11,0,0,32:39
-12,Sun,November 27,boxscore,W,OT,@,Seattle Seahawks,40,34,25,36,293,3,2,1,2,8.2,7.9,69.4,98.5,40,283,7.1,2,2,3,4,4,2,91,8,14,1,2,37:35
-13,Sun,December 4,boxscore,W,,,Los Angeles Chargers,27,20,16,30,250,2,1,0,0,8.3,8.3,53.3,89.6,29,154,5.3,1,2,3,3,3,4,181,3,10,0,0,29:16
-14,Thu,December 8,boxscore,L,,@,Los Angeles Rams,16,17,11,20,137,0,2,0,0,6.9,6.9,55.0,36.9,38,165,4.3,1,3,3,1,1,3,148,5,13,1,1,30:21
-15,Sun,December 18,boxscore,W,,,New England Patriots,30,24,20,38,211,3,1,3,20,6.1,5.1,52.6,84.4,23,97,4.2,0,1,1,3,3,7,324,5,14,1,1,33:16
-16,Sat,December 24,boxscore,L,,@,Pittsburgh Steelers,10,13,16,30,143,1,3,3,31,5.8,4.3,53.3,37.9,19,58,3.1,0,1,1,1,1,5,208,6,12,0,0,27:21
-17,Sun,January 1,boxscore,L,OT,,San Francisco 49ers,34,37,23,34,365,3,2,0,0,10.7,10.7,67.6,108.1,32,135,4.2,1,2,2,4,4,2,81,4,10,0,1,32:00
-18,Sat,January 7,boxscore,L,,,Kansas City Chiefs,13,31,22,36,180,1,1,6,39,6.1,4.3,61.1,71.5,25,99,4.0,0,2,2,1,1,2,122,8,16,0,2,34:13
+version https://git-lfs.github.com/spec/v1
+oid sha256:2806561b2710e00ee6cb1f106dcfbd44e39eb6552e3d2a85faed4324bfd9cbdf
+size 2448

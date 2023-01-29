@@ -1,16 +1,3 @@
-Week,Day,Date,Time,Winner/tie,,Loser/tie,,PtsW,PtsL,YdsW,TOW,YdsL,TOL
-13,Thu,2022-12-01,8:15 PM,Buffalo Bills,@,New England Patriots,boxscore,24,10,355,1,242,0
-13,Sun,2022-12-04,1:00 PM,Cleveland Browns,@,Houston Texans,boxscore,27,14,304,2,283,4
-13,Sun,2022-12-04,1:00 PM,Baltimore Ravens,,Denver Broncos,boxscore,10,9,285,2,272,0
-13,Sun,2022-12-04,1:00 PM,Detroit Lions,,Jacksonville Jaguars,boxscore,40,14,437,0,266,1
-13,Sun,2022-12-04,1:00 PM,Minnesota Vikings,,New York Jets,boxscore,27,22,287,0,486,2
-13,Sun,2022-12-04,1:00 PM,Washington Commanders,@,New York Giants,boxscore,20,20,411,1,316,1
-13,Sun,2022-12-04,1:00 PM,Philadelphia Eagles,,Tennessee Titans,boxscore,35,10,453,0,209,0
-13,Sun,2022-12-04,1:00 PM,Pittsburgh Steelers,@,Atlanta Falcons,boxscore,19,16,351,0,306,1
-13,Sun,2022-12-04,1:00 PM,Green Bay Packers,@,Chicago Bears,boxscore,28,19,357,0,409,3
-13,Sun,2022-12-04,4:05 PM,San Francisco 49ers,,Miami Dolphins,boxscore,33,17,351,1,308,4
-13,Sun,2022-12-04,4:05 PM,Seattle Seahawks,@,Los Angeles Rams,boxscore,27,23,438,2,319,2
-13,Sun,2022-12-04,4:25 PM,Cincinnati Bengals,,Kansas City Chiefs,boxscore,27,24,431,0,349,1
-13,Sun,2022-12-04,4:25 PM,Las Vegas Raiders,,Los Angeles Chargers,boxscore,27,20,404,2,386,1
-13,Sun,2022-12-04,8:20 PM,Dallas Cowboys,,Indianapolis Colts,boxscore,54,19,385,1,309,5
-13,Mon,2022-12-05,8:15 PM,Tampa Bay Buccaneers,,New Orleans Saints,boxscore,17,16,350,2,298,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4f2f95289bbac84dd4d3ddfcc2e141b2229fa7b24afa2e1dbfa8d334e6c275c
+size 1428

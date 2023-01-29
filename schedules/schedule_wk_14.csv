@@ -1,14 +1,3 @@
-Week,Day,Date,Time,Winner/tie,,Loser/tie,,PtsW,PtsL,YdsW,TOW,YdsL,TOL
-14,Thu,2022-12-08,8:15 PM,Los Angeles Rams,,Las Vegas Raiders,boxscore,17,16,282,1,302,2
-14,Sun,2022-12-11,1:00 PM,Buffalo Bills,,New York Jets,boxscore,20,12,232,0,309,2
-14,Sun,2022-12-11,1:00 PM,Cincinnati Bengals,,Cleveland Browns,boxscore,23,10,363,1,344,1
-14,Sun,2022-12-11,1:00 PM,Dallas Cowboys,,Houston Texans,boxscore,27,23,404,3,327,2
-14,Sun,2022-12-11,1:00 PM,Detroit Lions,,Minnesota Vikings,boxscore,34,23,464,0,416,2
-14,Sun,2022-12-11,1:00 PM,Jacksonville Jaguars,@,Tennessee Titans,boxscore,36,22,428,0,364,4
-14,Sun,2022-12-11,1:00 PM,Philadelphia Eagles,@,New York Giants,boxscore,48,22,437,0,304,1
-14,Sun,2022-12-11,1:00 PM,Baltimore Ravens,@,Pittsburgh Steelers,boxscore,16,14,309,0,329,3
-14,Sun,2022-12-11,4:20 PM,Kansas City Chiefs,@,Denver Broncos,boxscore,34,28,431,3,320,2
-14,Sun,2022-12-11,4:25 PM,Carolina Panthers,@,Seattle Seahawks,boxscore,30,24,328,0,287,2
-14,Sun,2022-12-11,4:25 PM,San Francisco 49ers,,Tampa Bay Buccaneers,boxscore,35,7,404,1,322,3
-14,Sun,2022-12-11,8:20 PM,Los Angeles Chargers,,Miami Dolphins,boxscore,23,17,432,0,219,0
-14,Mon,2022-12-12,8:15 PM,New England Patriots,@,Arizona Cardinals,boxscore,27,13,328,1,323,2
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eae65ffab7d7482b1dc3654af589ec1013a1f2c2703f4786e8816318586a5bb
+size 1246
