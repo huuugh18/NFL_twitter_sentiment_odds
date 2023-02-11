@@ -1,4 +1,6 @@
 cols_to_remove = [
+'Week',
+'Date',
 'away_positive96',
 'away_positive24',
 'away_neutral96',
@@ -17,4 +19,5 @@ cols_to_remove = [
 'home_sentiment_96h',
 'home_sentiment_24h', 
 'home_swing',
+'home_spread'
 ]
